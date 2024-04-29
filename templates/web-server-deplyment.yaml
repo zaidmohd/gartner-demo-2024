@@ -28,6 +28,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: sportsweb-service
+  namespace: contoso-sports
 spec:
   type: NodePort  # Set the type to NodePort
   selector:

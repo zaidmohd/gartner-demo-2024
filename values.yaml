@@ -5,5 +5,5 @@ mssql:
 sportsweb:
   catalogConnection: "Server=mssql-service;User Id=sa;Password=Test123!;Integrated Security=false;Initial Catalog=Microsoft.eShopOnWeb.CatalogDb;TrustServerCertificate=True"
   identityConnection: "Server=mssql-service;User Id=sa;Password=Test123!;Integrated Security=false;Initial Catalog=Microsoft.eShopOnWeb.Identity;TrustServerCertificate=True"
-  collectionEdition: "2024"
+  collectionEdition: "2023"
   port: 30000
