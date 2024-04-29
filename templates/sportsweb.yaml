@@ -30,7 +30,7 @@ metadata:
   name: sportsweb-service
   namespace: contoso-sports
 spec:
-  type: NodePort  # Set the type to NodePort
+  type: NodePort
   selector:
     app: sportsweb
   ports:
