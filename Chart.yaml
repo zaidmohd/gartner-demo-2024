@@ -1,4 +1,5 @@
 apiVersion: v2
+kind: Chart
 name: contoso-sports-chart
 description: A Helm chart to deploy Contoso Sports infrastructure (MSSQL Server and .NET Web)
 version: 0.1.0
